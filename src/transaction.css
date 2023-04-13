@@ -1,0 +1,53 @@
+
+
+table
+{
+    border: white;
+    width: 800px;
+    height: 200px;
+    margin: auto;
+    text-align: center;
+    color: white;
+}
+
+
+
+p
+{
+    text-decoration: solid;
+    
+    width: 800px;
+    height: 20px;
+    margin: auto;
+    text-align: right;
+    border: 5px solid beige;
+    border-color: white;
+    border-radius: 5px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    font-weight: 800;
+    
+    color: white;
+    
+}
+
+  
+  .submain2
+  {
+      border: 5px solid beige;
+      border-color: white;
+      border-radius: 5px;
+     
+  }
+
+.trial{
+    background-image: url("https://t4.ftcdn.net/jpg/01/95/26/47/360_F_195264785_oHApyzWMRq6EnHLfWy81MSKbbpp8yCkc.jpg");
+  }
+  h1{
+      color: white;
+  }
+
+  header.App-header{
+      color: white;
+      background-color: white;
+  }
